@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JayfreeGorillas
 - 👀 I’m interested in ... iOS development
-- 🌱 I’m currently learning ... Networking/JSON parsing
-- 💞️ I’m looking to collaborate on ... anything UI related to see if i can help out as the im more familiar with the ui aspects of swift
+- 🌱 I’m currently learning ... Data Structures && Algorithms
+- 💞️ I’m looking to collaborate on ... anything swift related that I can be a hand in
 - 📫 How to reach me ... @Jayfree__ on twitter
 
 <!---
